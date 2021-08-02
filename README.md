@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ariel Martinez
-- 👀 I’m interested in learning new ways to better develope my skils in work and also video games and board games.
+- 👀 I’m interested in learning new ways to better develop my skills in work and also video games and board games.
 - 🌱 I’m currently learning web development coding with the University of Minnesota Coding Boot Camp.
 - 💞️ I’m looking to collaborate in front end and/or back end web development.
 - 📫 How to reach me by email at arielo5.gamer@gmail.com.
